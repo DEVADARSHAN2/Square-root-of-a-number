@@ -21,11 +21,11 @@ To write a program to find the square root of a number.
 
 ## Program:
 ```
-/*
+
 Program to find the square root for the given number(newton's method) using function.
 Developed by: DEVADARSHAN A S 
 RegisterNumber : 212222110007  
-*/
+
 ```
 ```Python
 def newton_method(number,number_iters = 100):
